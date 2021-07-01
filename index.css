@@ -1,0 +1,10 @@
+.letter {
+  color: blue;
+  background-color: blanchedalmond;
+  width: 50px;
+}
+
+.letter:hover {
+  color: aqua;
+  width: 100px;
+}
